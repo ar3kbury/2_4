@@ -1,0 +1,1 @@
+- [Replit config editing](replit-config-editing.md) — validate `.replit` changes through the Replit config replacement flow instead of direct edits.
